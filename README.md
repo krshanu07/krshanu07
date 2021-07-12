@@ -1,5 +1,7 @@
 ### Hi, I’m @kumar-shanu <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="28px">
 
+I am an accomplished coder and programmer, I enjoy using my skills in daily life practices.
+
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Flutter and Kotlin
 - 💞️ I’m looking to collaborate on ...
