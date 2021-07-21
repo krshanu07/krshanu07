@@ -2,7 +2,7 @@
 
 I am an accomplished coder and programmer, I enjoy using my skills in daily life practices.
 
-- 👀 I’m interested in Android Development
+- 👀 I’m interested in Android Development and Web Development
 - 🌱 I’m currently learning Flutter and Kotlin
 - 💞️ I’m looking to collaborate on ...
 
