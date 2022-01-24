@@ -10,7 +10,7 @@ I am an accomplished coder and programmer, I enjoy using my skills in daily life
 ### Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Kumar%20Shanu-Portfolio-orange)](https://kumar-shanu.netlify.com)
-[![LinkedIn](https://img.shields.io/badge/krshanu07-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/krshanu07)
+[![LinkedIn](https://img.shields.io/badge/krshanu07-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/krshanu07)
 [![Twitter](https://img.shields.io/badge/krshanu07-9cf?style=flat-square&logo=twitter)](https://www.twitter.com/krshanu07)
 [![Facebook](https://img.shields.io/badge/krshanu07-informational?style=flat-square&logo=facebook)](https://www.facebook.com/krshanu07)
 
