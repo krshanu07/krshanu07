@@ -4,7 +4,7 @@ I am an accomplished coder and programmer, I enjoy using my skills in daily life
 
 - 👀 I’m interested in Android Development and Web Development
 - 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Kotlin App Development
 
 
 ### Connect With Me
