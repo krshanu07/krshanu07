@@ -8,7 +8,7 @@ I am an accomplished coder and programmer, I enjoy using my skills in daily life
 
 * 🌍  I'm based in New Delhi
 * 🖥️  See my portfolio at [My Personal Website](http://kumar-shanu.netlify.com)
-* 🧠  I'm learning Kotlin and Flutter
+* 🧠  I'm learning JavaScript
 
 ### Skills
 
