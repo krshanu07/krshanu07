@@ -1,13 +1,13 @@
 Hi 👋 My name is Kumar Shanu
 ============================
 
-Self taught Android Developer | Kotlin
+Self taught Web Developer | React
 --------------------------------------
 
 I am an accomplished coder and programmer, I enjoy using my skills in daily life practices.
 
 * 🌍  I'm based in New Delhi
-* 🖥️  See my portfolio at [My Personal Website](http://kumar-shanu.netlify.com)
+* 🖥️  See my portfolio at [My Personal Website](http://krshanu.com)
 * 🧠  I'm learning JavaScript
 
 ### Skills
